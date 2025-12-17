@@ -1,7 +1,4 @@
 ###  Hi there 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siyuhong&label=Profile views&color=0e75b6&style=flat" alt="siyuhong" /> </p>
-
 - 🌱 I'm currently learning **C++ and Python**
 
 - 📫 How to reach me **carloshong1024@gmail.com**
@@ -25,12 +22,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats-ljflhgj53-carlos1024s-projects.vercel.app/api/top-langs?username=siyuhong&show_icons=true&locale=en&layout=compact" alt="siyuhong" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-umber-two-93.vercel.app/api/top-langs?username=siyuhong&show_icons=true&locale=en&layout=compact&no-bg=true&no-frame=true" alt="siyuhong" style="display: inline-block; margin-right: 30px;" />
+  <img src="https://github-readme-stats-umber-two-93.vercel.app/api?username=siyuhong&show_icons=true&locale=en" alt="siyuhong" style="display: inline-block;" />
+</p>
 
-<!--
- <p>&nbsp;<img align="center" src="https://github-readme-stats-ljflhgj53-carlos1024s-projects.vercel.app/api?username=siyuhong&show_icons=true&locale=en" alt="siyuhong" /></p>
- -->
-
- <img align="center" src="https://github-readme-stats-ljflhgj53-carlos1024s-projects.vercel.app/api/wakatime?username=siyuhong&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
  
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=siyuhong&theme=github-compact&hide_border=true&area=true" />
